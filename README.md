@@ -6,9 +6,7 @@ I learned a little bit of Java in college, but majored in journalism and have wo
 
 ### A little more about me:
 
-- 🔭 Working on a personal portfolio site including:  
-    - React
-    - AWS
+- 🔭 Working on a personal portfolio site, job hunting, and other projects to keep learning!  
 - 📖 Currently learning AWS, React, more Spring Boot!  
 - 🤔 I’m looking for any help, advice, or leads transitioning into full associate/junior dev work.  
 - 💬 Ask me about art movies, local day hikes, or video compression...  
