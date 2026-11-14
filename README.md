@@ -1,9 +1,9 @@
 ### Welcome to my page!
 
-I'm Nathan, a fullstack wed dev transitioning from a career in video editing and live AV tech.
-I graduated from Launchcode in May of 2023 from a full stack web development course. [Launchcode](https://www.launchcode.org/) is a skill focused non-profit teaching center based in St. Louis teaching fullstack development, data science, and SQL specialization. 
-I started with programming in college when I learned a little bit of Java. I majored in journalism and have worked in video production and live events for close to 10 years, but I've been a technologist my whole live. Growing up in the '90s, I spent hours playing in MS Paint, Photoshop, Roller Coaster Tycoon, The Incredible Machine 2 and watching my dad play scary, but exciting Quake II!!!
-My last role was working at the local electric company. I joined a team who had good ops skills, but a technical vacuum. I was able to use my project leadership and passion for automation to remove several tedious, manual processes.
+I'm Nathan, a fullstack wed dev transitioning from a career in video editing and live AV tech.   
+I graduated from Launchcode in May of 2023 from a full stack web development course. [Launchcode](https://www.launchcode.org/) is a skill focused non-profit teaching center based in St. Louis teaching fullstack development, data science, and SQL specialization.   
+I started with programming in college when I learned a little bit of Java. I majored in journalism and have worked in video production and live events for close to 10 years, but I've been a technologist my whole live. Growing up in the '90s, I spent hours playing in MS Paint, Photoshop, Roller Coaster Tycoon, The Incredible Machine 2 and watching my dad play scary, but exciting Quake II!!!   
+My last role was working at the local electric company. I joined a team who had good ops skills, but a technical vacuum. I was able to use my project leadership and passion for automation to remove several tedious, manual processes.   
 
 ### A little more about me:
 
